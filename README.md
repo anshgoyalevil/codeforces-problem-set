@@ -36,6 +36,6 @@ SNo | Name |
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
-[https://github.com/firstcontributions/first-contributions]
+[Getting Started with Contributions](https://github.com/firstcontributions/first-contributions)
 <br>
-For more information, you may contact the repo author [anshgoyal1704@gmail.com]
+For more information, you may contact the repo author [Ansh Goyal 😎](anshgoyal1704@gmail.com)
