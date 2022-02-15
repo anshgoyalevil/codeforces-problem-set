@@ -33,3 +33,7 @@ SNo | Name |
 20 | [DZY Loves Chessboard](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/dzy-loves-chessboard.java)
 21 | [Football](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/football.java)
 22 | [Life Without Zeroes](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/life-without-zeros.java)
+
+## How to contribute to this project
+Please read the beginners guide to get started with contributing to this repo.
+For more information, you may contact the repo author [anshgoyal1704@gmail.com]
