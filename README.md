@@ -33,6 +33,12 @@ SNo | Name |
 20 | [DZY Loves Chessboard](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/dzy-loves-chessboard.java)
 21 | [Football](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/football.java)
 22 | [Life Without Zeroes](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/life-without-zeros.java)
+17 | [Expression](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/expression.java)
+18 | [Anton and Letters](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/anton-and-letters.java)	
+19 | [I Wanna Be The Guy](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/i-wanna-be-the-guy.java)  	
+20 | [Even Odds](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/even-odds.java)
+21 | [Cheap Travel](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/cheap-travel.cpp)
+22 | [Ilya and Bank Account](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/Ilya-and-bank-account.cpp)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
