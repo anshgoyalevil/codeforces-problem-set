@@ -8,6 +8,13 @@ Fork the repo and clone it.
 git clone https://github.com/anshgoyalevil/codeforces-problem-set
 ```
 
+## What's in for future
+We are constantly adding the code files to this repo, you may also contribute your solutions (Codeforces). [Read more about contributing to this repo](https://github.com/anshgoyalevil/codeforces-problem-set#how-to-contribute-to-this-project)
+
+All of the Hall of Fame Contributors will be displayed here (Subject to contribution criterion):
+
+- [x] Ansh Goyal
+
 ## Contents
 SNo | Name |
 ----|------|
