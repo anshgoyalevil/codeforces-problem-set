@@ -47,6 +47,13 @@ SNo | Name |
 27 | [Cheap Travel](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/cheap-travel.cpp)
 28 | [Ilya and Bank Account](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/Ilya-and-bank-account.cpp)
 29 | [Dragons](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/dragons.java)
+30 | [Colorful Stones (Simplified)](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/colorful-stones-simplified-edition.java)
+31 | [Fox and Snake](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/fox-and-snake.java)  	
+32 | [Choosing Teams](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/choosing-teams.java)
+33 | [Greg's Workout](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/gregs-workout.java)
+34 | [Contest](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/contest.java)
+35 | [Soft Drinking](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/soft-drinking.java)
+36 | [Roma and Lucky Numbers](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/roma-and-lucky-numbers.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
