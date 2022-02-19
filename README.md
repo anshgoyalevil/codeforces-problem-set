@@ -55,6 +55,9 @@ SNo | Name |
 35 | [Soft Drinking](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/soft-drinking.java)
 36 | [Roma and Lucky Numbers](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/roma-and-lucky-numbers.java)
 37 | [Playing with Dice](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/playing-with-dice.java)
+38 | [IQ Test](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/iq-test.java)
+39 | [Valera and Antique Items](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/valera-and-antique-items.java)
+40 | [Lunch Rush](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/lunch-rush.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
