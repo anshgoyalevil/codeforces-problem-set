@@ -58,6 +58,7 @@ SNo | Name |
 38 | [IQ Test](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/iq-test.java)
 39 | [Valera and Antique Items](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/valera-and-antique-items.java)
 40 | [Lunch Rush](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/lunch-rush.java)
+41 | [Card Game](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/card-game.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
