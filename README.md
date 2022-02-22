@@ -60,6 +60,7 @@ SNo | Name |
 40 | [Lunch Rush](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/lunch-rush.java)
 41 | [Card Game](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/card-game.java)
 42 | [Vanya and Lanterns](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/vanya-and-lanterns.java)
+43 | [Supercentral Point](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/supercentral-point.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
