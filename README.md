@@ -61,6 +61,7 @@ SNo | Name |
 41 | [Card Game](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/card-game.java)
 42 | [Vanya and Lanterns](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/vanya-and-lanterns.java)
 43 | [Supercentral Point](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/supercentral-point.java)
+44 | [Pashmak and Garden](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/pashmak-and-garden.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
