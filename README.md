@@ -16,7 +16,7 @@ All of the Hall of Fame Contributors will be displayed here (Subject to contribu
 - [x] Ansh Goyal
 
 ## Contents
-S.No | Problem Name |
+S.No. | Problem Name |
 ----|------|
 1 | [Watermelon](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/watermelon.java)
 2 | [Way Too Long Words](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/way-too-long-words.java)
