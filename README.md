@@ -69,3 +69,5 @@ Please read the beginners guide to get started with contributing to this repo.
 [Getting Started with Contributions](https://github.com/firstcontributions/first-contributions)
 <br>
 For more information, you may contact the repo author [Ansh Goyal 😎] (anshgoyal1704@gmail.com)
+
+!(https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/127001evil&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)
