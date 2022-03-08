@@ -18,7 +18,7 @@ All of the Hall of Fame Contributors will be displayed here (Subject to contribu
 ## Contents
 S.No. | Problem Name |
 ----|------|
-1 | [Watermelon](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/watermelon.java)
+1 | [Watermelon](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/watermelon.java)!(https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/127001evil&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)
 2 | [Way Too Long Words](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/way-too-long-words.java)
 3 | [String Task](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/string-task.java)	
 4 | [Petya and Strings](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/petya-and-strings.java)  	
