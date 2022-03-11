@@ -66,6 +66,7 @@ S.No. | Problem Name |
 46 | [Dreamoon and Stairs](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/dreamoon-and-stairs.java)
 47 | [Team Olympiad](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/team-olympiad.java)
 48 | [Appleman and Easy Task](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/appleman-and-easy-task.java)
+49 | [Perfect Permutation](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/perfect-permutation.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
