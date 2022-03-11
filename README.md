@@ -63,6 +63,9 @@ S.No. | Problem Name |
 43 | [Supercentral Point](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/supercentral-point.java)
 44 | [Pashmak and Garden](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/pashmak-and-garden.java)
 45 | [Fox and Number Game](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/fox-and-number-game.cpp)
+46 | [Dreamoon and Stairs](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/dreamoon-and-stairs.java)
+47 | [Team Olympiad](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/team-olympiad.java)
+48 | [Appleman and Easy Task](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/appleman-and-easy-task.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
