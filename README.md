@@ -69,6 +69,7 @@ S.No. | Problem Name |
 49 | [Perfect Permutation](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/perfect-permutation.java)
 50 | [Laptops](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/laptops.cpp)
 51 | [The Child and Homework](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/the-child-and-homework.java)
+52 | [Valera and X](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/valera-and-x.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
