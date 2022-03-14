@@ -67,6 +67,8 @@ S.No. | Problem Name |
 47 | [Team Olympiad](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/team-olympiad.java)
 48 | [Appleman and Easy Task](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/appleman-and-easy-task.java)
 49 | [Perfect Permutation](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/perfect-permutation.java)
+50 | [Laptops](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/laptops.cpp)
+51 | [The Child and Homework](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/the-child-and-homework.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
