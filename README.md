@@ -73,6 +73,7 @@ S.No. | Problem Name |
 53 | [Devu, the Singer and Churu, the Joker](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/devu-the-singer-and-churu-the-joker.java)
 54 | [Bear and Raspberry](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/bear-and-raspberry.cpp)
 55 | [Watching a Movie](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/watching-a-movie.cpp)
+56 | [Counterexample](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/counterexample.cpp)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
