@@ -74,6 +74,7 @@ S.No. | Problem Name |
 54 | [Bear and Raspberry](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/bear-and-raspberry.cpp)
 55 | [Watching a Movie](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/watching-a-movie.cpp)
 56 | [Counterexample](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/counterexample.cpp)
+57 | [Minimum Difficulty](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/minimum-difficulty.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
