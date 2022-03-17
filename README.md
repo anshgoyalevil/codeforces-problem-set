@@ -70,6 +70,9 @@ S.No. | Problem Name |
 50 | [Laptops](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/laptops.cpp)
 51 | [The Child and Homework](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/the-child-and-homework.java)
 52 | [Valera and X](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/valera-and-x.java)
+53 | [Devu, the Singer and Churu, the Joker](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/devu-the-singer-and-churu-the-joker.java)
+54 | [Bear and Raspberry](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/bear-and-raspberry.cpp)
+55 | [Watching a Movie](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/watching-a-movie.cpp)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
