@@ -81,6 +81,7 @@ S.No. | Problem Name |
 61 | [Cakeminator](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/cakeminator.java)
 62 | [Marks](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/marks.java)
 63 | [Sleuth](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/sleuth.java)
+64 | [Lefthanders and Righthanders](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/lefthanders-and-righthanders.cpp)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
