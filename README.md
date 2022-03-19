@@ -80,6 +80,7 @@ S.No. | Problem Name |
 60 | [Shell Game](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/shell-game.cpp)
 61 | [Cakeminator](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/cakeminator.java)
 62 | [Marks](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/marks.java)
+63 | [Sleuth](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/sleuth.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
