@@ -76,6 +76,7 @@ S.No. | Problem Name |
 56 | [Counterexample](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/counterexample.cpp)
 57 | [Minimum Difficulty](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/minimum-difficulty.java)
 58 | [Giga Tower](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/giga-tower.java)
+59 | [TL](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/tl.cpp)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
