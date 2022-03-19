@@ -78,6 +78,7 @@ S.No. | Problem Name |
 58 | [Giga Tower](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/giga-tower.java)
 59 | [TL](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/tl.cpp)
 60 | [Shell Game](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/shell-game.cpp)
+61 | [Cakeminator](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/cakeminator.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
