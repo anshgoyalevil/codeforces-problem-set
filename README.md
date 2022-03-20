@@ -83,6 +83,7 @@ S.No. | Problem Name |
 63 | [Sleuth](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/sleuth.java)
 64 | [Lefthanders and Righthanders](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/lefthanders-and-righthanders.cpp)
 65 | [Worms Evolution](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/worms-evolution.java)
+66 | [Next Test](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/next-test.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
