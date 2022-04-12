@@ -89,6 +89,7 @@ S.No. | Problem Name |
 69 | [BerSU Ball](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/bersu-ball.java)
 70 | [Theatre Square](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/theatre-square.java)
 71 | [Prefix Removals](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/prefix-removals.java)
+72 | [Maximum Cake Tastiness](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/maximum-cake-tastiness.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
