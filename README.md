@@ -96,6 +96,7 @@ S.No. | Problem Name |
 76 | [Vasya and Digital Root](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/vasya-and-digital-root.java)
 77 | [Line to Cashier](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/line-to-cashier.java)
 78 | [Queue at the School](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/queue-at-the-school.java)
+79 | [Xenia and Ringroad](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/xenia-and-ringroad.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
