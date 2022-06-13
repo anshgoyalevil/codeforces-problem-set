@@ -94,6 +94,7 @@ S.No. | Problem Name |
 74 | [Levko and Table](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/levko-and-table.java)
 75 | [Soroban](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/soroban.java)
 76 | [Vasya and Digital Root](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/vasya-and-digital-root.java)
+77 | [Line to Cashier](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/line-to-cashier.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
