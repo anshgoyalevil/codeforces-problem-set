@@ -90,6 +90,10 @@ S.No. | Problem Name |
 70 | [Theatre Square](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/theatre-square.java)
 71 | [Prefix Removals](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/prefix-removals.java)
 72 | [Maximum Cake Tastiness](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/maximum-cake-tastiness.java)
+73 | [Yaroslav and Permutations](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/yaroslav-and-permutations.java)
+74 | [Levko and Table](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/levko-and-table.java)
+75 | [Soroban](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/soroban.java)
+76 | [Vasya and Digital Root](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/vasya-and-digital-root.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
