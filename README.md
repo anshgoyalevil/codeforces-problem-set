@@ -98,6 +98,7 @@ S.No. | Problem Name |
 78 | [Queue at the School](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/queue-at-the-school.java)
 79 | [Xenia and Ringroad](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/xenia-and-ringroad.java)
 80 | [Fedor and New Game](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/fedor-and-new-game.java)
+81 | [Sort the Array](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/sort-the-array.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
