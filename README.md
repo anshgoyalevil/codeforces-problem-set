@@ -101,6 +101,7 @@ S.No. | Problem Name |
 81 | [Sort the Array](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/sort-the-array.java)
 82 | [Lecture](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/lecture.java)
 83 | [Anton and currency you all know](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/anton-and-currency-you-all-know.java)
+84 | [DZY Loves Strings](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/dzy-Loves-strings.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
