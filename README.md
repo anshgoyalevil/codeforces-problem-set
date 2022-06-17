@@ -103,6 +103,7 @@ S.No. | Problem Name |
 83 | [Anton and currency you all know](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/anton-and-currency-you-all-know.java)
 84 | [DZY Loves Strings](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/dzy-Loves-strings.java)
 85 | [Palindromic Times](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/palindromic-times.java)
+86 | [Eugeny and Array](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/eugeny-and-array.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
