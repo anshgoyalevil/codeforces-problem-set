@@ -104,6 +104,7 @@ S.No. | Problem Name |
 84 | [DZY Loves Strings](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/dzy-Loves-strings.java)
 85 | [Palindromic Times](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/palindromic-times.java)
 86 | [Eugeny and Array](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/eugeny-and-array.java)
+87 | [Two Bags of Potatoes](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/two-bags-of-potatoes.cpp)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
