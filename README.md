@@ -105,6 +105,7 @@ S.No. | Problem Name |
 85 | [Palindromic Times](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/palindromic-times.java)
 86 | [Eugeny and Array](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/eugeny-and-array.java)
 87 | [Two Bags of Potatoes](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(C%2B%2B)/two-bags-of-potatoes.cpp)
+88 | [Roadside Trees (Simplified Edition)](https://github.com/anshgoyalevil/codeforces-problem-set/blob/main/Code%20Files%20(Java)/roadside-trees-simplified-edition.java)
 
 ## How to contribute to this project
 Please read the beginners guide to get started with contributing to this repo.
